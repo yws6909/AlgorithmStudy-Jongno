@@ -31,7 +31,7 @@
 - [코드플러스 알고리즘 기초 1/2][https://code.plus/course/41])
 
 ## W3 (2020-05-03 ~ 05-09)
-#### P13 + 2:
+#### P13 + 1:
 - [정수 삼각형][https://www.acmicpc.net/problem/1932]
 - [가장 큰 증가 부분 수열][https://www.acmicpc.net/problem/11055]
 - [가장 긴 감소하는 부분 수열][https://www.acmicpc.net/problem/11722]
@@ -46,7 +46,6 @@
 - [테트로미노][https://www.acmicpc.net/problem/14500]
 - [카잉 달력][https://www.acmicpc.net/problem/6064]
 - +) [수 이어 쓰기 1][https://www.acmicpc.net/problem/1748]
-- +) [1, 2, 3 더하기][https://www.acmicpc.net/problem/9095]
 
 #### 출처:
 - [코드플러스 알고리즘 기초 1/2][https://code.plus/course/41])

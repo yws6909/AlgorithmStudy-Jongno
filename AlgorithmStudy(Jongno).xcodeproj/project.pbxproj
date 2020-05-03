@@ -21,6 +21,11 @@
 /* Begin PBXFileReference section */
 		72740209245F3B47002018D0 /* AlgorithmStudy(Jongno) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "AlgorithmStudy(Jongno)"; sourceTree = BUILT_PRODUCTS_DIR; };
 		72740213245F3B64002018D0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		72740218245F4AFB002018D0 /* 1463.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1463.cpp; sourceTree = "<group>"; };
+		7274021A245F4B2C002018D0 /* 11726.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 11726.cpp; sourceTree = "<group>"; };
+		7274021C245F4B35002018D0 /* 11727.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 11727.cpp; sourceTree = "<group>"; };
+		7274021E245F4B3E002018D0 /* 9095.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 9095.cpp; sourceTree = "<group>"; };
+		72740220245F4B4C002018D0 /* 11052.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 11052.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,9 +58,22 @@
 		7274020B245F3B47002018D0 /* AlgorithmStudy(Jongno) */ = {
 			isa = PBXGroup;
 			children = (
+				72740217245F4ABE002018D0 /* W1 */,
 				72740213245F3B64002018D0 /* README.md */,
 			);
 			path = "AlgorithmStudy(Jongno)";
+			sourceTree = "<group>";
+		};
+		72740217245F4ABE002018D0 /* W1 */ = {
+			isa = PBXGroup;
+			children = (
+				72740218245F4AFB002018D0 /* 1463.cpp */,
+				7274021A245F4B2C002018D0 /* 11726.cpp */,
+				7274021C245F4B35002018D0 /* 11727.cpp */,
+				7274021E245F4B3E002018D0 /* 9095.cpp */,
+				72740220245F4B4C002018D0 /* 11052.cpp */,
+			);
+			path = W1;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
