@@ -8,9 +8,8 @@ int main(int argc, const char* argv[])
     int n;
     std::scanf("%d", &n);
     
-    std::vector<int> set;
+    int set[1'000 + 1];
     {
-        set.resize(n + 1, 0);
         set[1] = 1;
         set[2] = 2;
     }

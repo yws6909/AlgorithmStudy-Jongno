@@ -26,6 +26,21 @@
 		7274021C245F4B35002018D0 /* 11727.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 11727.cpp; sourceTree = "<group>"; };
 		7274021E245F4B3E002018D0 /* 9095.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 9095.cpp; sourceTree = "<group>"; };
 		72740220245F4B4C002018D0 /* 11052.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 11052.cpp; sourceTree = "<group>"; };
+		72740224245F5726002018D0 /* 16194.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 16194.cpp; sourceTree = "<group>"; };
+		72740226245F572E002018D0 /* 15990.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 15990.cpp; sourceTree = "<group>"; };
+		72740228245F5735002018D0 /* 10844.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 10844.cpp; sourceTree = "<group>"; };
+		7274022A245F573C002018D0 /* 2193.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2193.cpp; sourceTree = "<group>"; };
+		7274022C245F5742002018D0 /* 11053.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 11053.cpp; sourceTree = "<group>"; };
+		7274022E245F5747002018D0 /* 14002.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 14002.cpp; sourceTree = "<group>"; };
+		72740230245F5755002018D0 /* 1912.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1912.cpp; sourceTree = "<group>"; };
+		72740232245F575E002018D0 /* 1699.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1699.cpp; sourceTree = "<group>"; };
+		72740234245F5763002018D0 /* 2225.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2225.cpp; sourceTree = "<group>"; };
+		72740236245F576C002018D0 /* 15988.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 15988.cpp; sourceTree = "<group>"; };
+		72740238245F5772002018D0 /* 1149.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1149.cpp; sourceTree = "<group>"; };
+		7274023A245F5778002018D0 /* 1309.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1309.cpp; sourceTree = "<group>"; };
+		7274023C245F5781002018D0 /* 11057.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 11057.cpp; sourceTree = "<group>"; };
+		7274023E245F578B002018D0 /* 9465.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 9465.cpp; sourceTree = "<group>"; };
+		72740240245F5790002018D0 /* 2156.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2156.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +73,9 @@
 		7274020B245F3B47002018D0 /* AlgorithmStudy(Jongno) */ = {
 			isa = PBXGroup;
 			children = (
-				72740217245F4ABE002018D0 /* W1 */,
 				72740213245F3B64002018D0 /* README.md */,
+				72740217245F4ABE002018D0 /* W1 */,
+				72740223245F557D002018D0 /* W2 */,
 			);
 			path = "AlgorithmStudy(Jongno)";
 			sourceTree = "<group>";
@@ -74,6 +90,28 @@
 				72740220245F4B4C002018D0 /* 11052.cpp */,
 			);
 			path = W1;
+			sourceTree = "<group>";
+		};
+		72740223245F557D002018D0 /* W2 */ = {
+			isa = PBXGroup;
+			children = (
+				72740224245F5726002018D0 /* 16194.cpp */,
+				72740226245F572E002018D0 /* 15990.cpp */,
+				72740228245F5735002018D0 /* 10844.cpp */,
+				7274022A245F573C002018D0 /* 2193.cpp */,
+				7274022C245F5742002018D0 /* 11053.cpp */,
+				7274022E245F5747002018D0 /* 14002.cpp */,
+				72740230245F5755002018D0 /* 1912.cpp */,
+				72740232245F575E002018D0 /* 1699.cpp */,
+				72740234245F5763002018D0 /* 2225.cpp */,
+				72740236245F576C002018D0 /* 15988.cpp */,
+				72740238245F5772002018D0 /* 1149.cpp */,
+				7274023A245F5778002018D0 /* 1309.cpp */,
+				7274023C245F5781002018D0 /* 11057.cpp */,
+				7274023E245F578B002018D0 /* 9465.cpp */,
+				72740240245F5790002018D0 /* 2156.cpp */,
+			);
+			path = W2;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
