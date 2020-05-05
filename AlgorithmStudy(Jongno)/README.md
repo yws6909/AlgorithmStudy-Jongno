@@ -30,7 +30,7 @@
 #### 출처:
 - [코드플러스 알고리즘 기초 1/2](https://code.plus/course/41)
 
-## W3 (2020-05-03 ~ 05-09)
+### W3 (2020-05-03 ~ 05-09)
 #### P13 + 1:
 - [정수 삼각형](https://www.acmicpc.net/problem/1932)
 - [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055)

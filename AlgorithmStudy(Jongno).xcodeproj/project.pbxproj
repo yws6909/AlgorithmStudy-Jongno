@@ -76,6 +76,7 @@
 				72740213245F3B64002018D0 /* README.md */,
 				72740217245F4ABE002018D0 /* W1 */,
 				72740223245F557D002018D0 /* W2 */,
+				7274026B245FB2F2002018D0 /* W3 */,
 			);
 			path = "AlgorithmStudy(Jongno)";
 			sourceTree = "<group>";
@@ -112,6 +113,13 @@
 				72740240245F5790002018D0 /* 2156.cpp */,
 			);
 			path = W2;
+			sourceTree = "<group>";
+		};
+		7274026B245FB2F2002018D0 /* W3 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = W3;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
