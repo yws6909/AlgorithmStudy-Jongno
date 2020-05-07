@@ -12,14 +12,14 @@ int main(int argc, const char* argv[])
     {
         set[1] = 1;
         set[2] = 2;
-    }
-    
-    for(int i = 3; i <= n; ++i)
-    {
-        set[i] = set[i - 1] + set[i - 2];
         
-        if(set[i] >= div)
-            set[i] -= div;
+        for(int i = 3; i <= n; ++i)
+        {
+            set[i] = set[i - 1] + set[i - 2];
+            
+            if(set[i] >= div)
+                set[i] -= div;
+        }
     }
     
     const int r = set[n];

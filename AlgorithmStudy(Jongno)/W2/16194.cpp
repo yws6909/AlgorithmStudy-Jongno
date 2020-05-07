@@ -9,23 +9,23 @@ int main(int argc, const char* argv[])
     int n;
     std::scanf("%d", &n);
     
-    int p[1'000 + 1];
-    {
-        for(int i = 1; i <= n; ++i)
-            std::scanf("%d", p + i);
-    }
-    
     int opt[1'000 + 1];
     {
         opt[0] = 0;
-    }
-
-    for(int i = 1; i <= n; ++i)
-    {
-        opt[i] = int_max;
         
-        for(int j = 1; j <= i; ++j)
-            opt[i] = std::min(opt[i], opt[i - j] + p[j]);
+        int p[1'000 + 1];
+        {
+            for(int i = 1; i <= n; ++i)
+                std::scanf("%d", p + i);
+        }
+        
+        for(int i = 1; i <= n; ++i)
+        {
+            opt[i] = int_max;
+            
+            for(int j = 1; j <= i; ++j)
+                opt[i] = std::min(opt[i], opt[i - j] + p[j]);
+        }
     }
     
     const int r = opt[n];

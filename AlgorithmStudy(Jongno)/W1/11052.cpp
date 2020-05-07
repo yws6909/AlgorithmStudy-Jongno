@@ -6,23 +6,23 @@ int main(int argc, const char* argv[])
     int n;
     std::scanf("%d", &n);
     
-    int p[1'000 + 1];
-    {
-        for(int i = 1; i <= n; ++i)
-            std::scanf("%d", p + i);
-    }
-    
     int opt[1'000 + 1];
     {
-        opt[1] = p[1];
-    }
-    
-    for(int i = 2; i <= n; ++i)
-    {
-        opt[i] = 0;
+        int p[1'000 + 1];
+        {
+            for(int i = 1; i <= n; ++i)
+                std::scanf("%d", p + i);
+        }
         
-        for(int j = 1; j <= i; ++j)
-            opt[i] = std::max(opt[i], opt[i - j] + p[j]);
+        opt[1] = p[1];
+        
+        for(int i = 2; i <= n; ++i)
+        {
+            opt[i] = 0;
+            
+            for(int j = 1; j <= i; ++j)
+                opt[i] = std::max(opt[i], opt[i - j] + p[j]);
+        }
     }
     
     const int r = opt[n];
