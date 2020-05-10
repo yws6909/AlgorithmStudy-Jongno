@@ -31,7 +31,7 @@
 - [코드플러스 알고리즘 기초 1/2](https://code.plus/course/41)
 
 ### W3 (2020-05-03 ~ 05-09)
-#### P13 + 1:
+#### P13
 - [정수 삼각형](https://www.acmicpc.net/problem/1932) ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W3/1932.cpp))
 - [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W3/11055.cpp))
 - [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W3/11722.cpp))
@@ -45,8 +45,29 @@
 - [리모컨](https://www.acmicpc.net/problem/1107)
 - [테트로미노](https://www.acmicpc.net/problem/14500)
 - [카잉 달력](https://www.acmicpc.net/problem/6064)
-- +) [수 이어 쓰기 1](https://www.acmicpc.net/problem/1748)
 
 #### 출처:
 - [코드플러스 알고리즘 기초 1/2](https://code.plus/course/41)
+- [코드플러스 알고리즘 기초 2/2](https://code.plus/course/42)
+
+### W4 (2020-05-10 ~ 05-16)
+#### P16
+- [수 이어 쓰기 1](https://www.acmicpc.net/problem/1748)[source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W4/1748.cpp)
+- [N과 M (1)](https://www.acmicpc.net/problem/15649)[source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W4/15649.cpp)
+- [N과 M (2)](https://www.acmicpc.net/problem/15650)[source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W4/15650.cpp)
+- [N과 M (3)](https://www.acmicpc.net/problem/15651)[source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W4/15651.cpp)
+- [N과 M (4)](https://www.acmicpc.net/problem/15652)[source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W4/15652.cpp)
+- [N과 M (5)](https://www.acmicpc.net/problem/15654)[source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W4/15654.cpp)
+- [N과 M (6)](https://www.acmicpc.net/problem/15655)[source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W4/15655.cpp)
+- [N과 M (7)](https://www.acmicpc.net/problem/15656)[source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W4/15656.cpp)
+- [N과 M (8)](https://www.acmicpc.net/problem/15657)[source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W4/15657.cpp)
+- [N과 M (9)](https://www.acmicpc.net/problem/15663)[source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W4/15663.cpp)
+- [N과 M (10)](https://www.acmicpc.net/problem/15664)[source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W4/15664.cpp)
+- [N과 M (11)](https://www.acmicpc.net/problem/15665)[source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W4/15665.cpp)
+- [N과 M (12)](https://www.acmicpc.net/problem/15666)[source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W4/15666.cpp)
+- [다음 순열](https://www.acmicpc.net/problem/10972)
+- [이전 순열](https://www.acmicpc.net/problem/10973)
+- [모든 순열](https://www.acmicpc.net/problem/10974)
+
+#### 출처:
 - [코드플러스 알고리즘 기초 2/2](https://code.plus/course/42)
