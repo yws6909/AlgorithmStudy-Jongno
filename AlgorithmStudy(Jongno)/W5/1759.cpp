@@ -1,91 +1,46 @@
 #include <iostream>
 #include <algorithm>
-#include <vector>
 #include <string>
 
-#define repeat_for(V,N) \
-for (int V = 0; V < N; ++V)
+int l, c;
+std::string ret;
+char input[15];
 
-#define L_MAX 15
-
-int T, L, C;
-std::string I;
-std::vector <std::string> R;
-
-void init ()
+void solve(int idx, int depth, int vowel, int consonant)
 {
-    T = 1;
-    L = C = 0;
-    I.reserve(L_MAX);
-    std::ios_base::sync_with_stdio(false);
-}
-
-void input ()
-{
-    std::cin >> L >> C;
-    
-    char t;
-    repeat_for(i, C)
+    if(depth == l)
     {
-        std::cin >> t;
-        I.push_back(t);
+        if(vowel >= 1 && consonant >= 2)
+            std::printf("%s\n", ret.c_str());
+        
+        return;
     }
     
-    std::sort(I.begin(), I.end(), std::less<char>{});
-}
-
-bool is_vowel (char c)
-{
-    switch(c)
+    for(int i = idx; i < c; ++i)
     {
-        case 'a': case 'e':
-        case 'i': case 'o':
-        case 'u':
-            return true;
-        default:
-            return false;
+        ret[depth] = input[i];
+        
+        if(input[i] == 'a' || input[i] == 'e' ||
+           input[i] == 'i' || input[i] == 'o' ||
+           input[i] == 'u')
+            solve(i + 1, depth + 1, vowel + 1, consonant);
+        else
+            solve(i + 1, depth + 1, vowel, consonant + 1);
     }
 }
 
-using str_iter = std::string::iterator;
-
-void solve (int c = 0, int vowel = 0,
-            std::string&& str = {},
-            str_iter i = I.begin())
+int main(int argc, const char* argv[])
 {
-    if (c == L)
-    {
-        if ( (vowel >= 1) && ((c - vowel) >= 2) )
-        {
-            R.push_back(str);
-        }
-    }
-    else
-    {
-        ++c;
-        for (; i < I.end(); ++i)
-        {
-            solve(c, vowel + is_vowel(*i), str + (*i), i + 1);
-        }
-    }
-}
-
-void output ()
-{
-    for (auto elem : R)
-    {
-        std::cout << elem << "\n";
-    }
-}
-
-int main (int argc, const char* argv[])
-{
-    init();
-    repeat_for(i, T)
-    {
-        input();
-        solve();
-        output();
-    }
+    std::scanf("%d %d", &l, &c);
+    
+    ret.resize(c);
+    
+    for(int i = 0; i < c; ++i)
+        std::scanf(" %c", input + i);
+    
+    std::sort(input, input + c);
+    
+    solve(0, 0, 0, 0);
+    
     return 0;
 }

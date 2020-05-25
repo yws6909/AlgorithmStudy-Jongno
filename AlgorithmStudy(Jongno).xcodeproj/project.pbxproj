@@ -6,6 +6,10 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		720F1B14247BF36F0094A350 /* 1260.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 720F1B0F247BDE920094A350 /* 1260.cpp */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		72740207245F3B47002018D0 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -22,6 +26,10 @@
 		720F1B0624780CCB0094A350 /* 1759.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1759.cpp; sourceTree = "<group>"; };
 		720F1B08247BDB640094A350 /* 10973.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 10973.cpp; sourceTree = "<group>"; };
 		720F1B0A247BDBCE0094A350 /* 10974.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 10974.cpp; sourceTree = "<group>"; };
+		720F1B0C247BDE650094A350 /* 6603.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 6603.cpp; sourceTree = "<group>"; };
+		720F1B0D247BDE790094A350 /* 14501.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 14501.cpp; sourceTree = "<group>"; };
+		720F1B0E247BDE850094A350 /* 1182.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1182.cpp; sourceTree = "<group>"; };
+		720F1B0F247BDE920094A350 /* 1260.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1260.cpp; sourceTree = "<group>"; };
 		72740209245F3B47002018D0 /* AlgorithmStudy(Jongno) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "AlgorithmStudy(Jongno)"; sourceTree = BUILT_PRODUCTS_DIR; };
 		72740213245F3B64002018D0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		72740218245F4AFB002018D0 /* 1463.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1463.cpp; sourceTree = "<group>"; };
@@ -79,7 +87,11 @@
 		720F1B0524780C980094A350 /* W5 */ = {
 			isa = PBXGroup;
 			children = (
+				720F1B0C247BDE650094A350 /* 6603.cpp */,
 				720F1B0624780CCB0094A350 /* 1759.cpp */,
+				720F1B0D247BDE790094A350 /* 14501.cpp */,
+				720F1B0E247BDE850094A350 /* 1182.cpp */,
+				720F1B0F247BDE920094A350 /* 1260.cpp */,
 			);
 			path = W5;
 			sourceTree = "<group>";
@@ -239,6 +251,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				720F1B14247BF36F0094A350 /* 1260.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

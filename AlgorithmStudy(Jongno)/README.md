@@ -71,3 +71,23 @@
 
 #### 출처:
 - [코드플러스 알고리즘 기초 2/2](https://code.plus/course/42)
+
+### W5 (2020-05-17 ~ 05-23)
+#### P14
+- [차이를 최대로](https://www.acmicpc.net/problem/10819)
+- [외판원 순회 2](https://www.acmicpc.net/problem/10971)
+- [로또](https://www.acmicpc.net/problem/6603) ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W5/6603.cpp))
+- [암호 만들기](https://www.acmicpc.net/problem/1759) ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W5/1759.cpp))
+- [퇴사](https://www.acmicpc.net/problem/14501) ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W5/14501.cpp))
+- [스타트와 링크](https://www.acmicpc.net/problem/14889)
+- [링크와 스타트](https://www.acmicpc.net/problem/15661)
+- [부등호](https://www.acmicpc.net/problem/2529)
+- [맞춰봐](https://www.acmicpc.net/problem/1248)
+- [집합](https://www.acmicpc.net/problem/11723)
+- [부분수열의 합](https://www.acmicpc.net/problem/1182) ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W5/1182.cpp))
+- [종이 조각](https://www.acmicpc.net/problem/14391)
+- [ABCDE](https://www.acmicpc.net/problem/13023)
+- [DFS와 BFS](https://www.acmicpc.net/problem/1260) ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W5/1260.cpp))
+
+#### 출처:
+- [코드플러스 알고리즘 기초 2/2](https://code.plus/course/42)
