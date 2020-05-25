@@ -65,9 +65,9 @@
 - [N과 M (10)](https://www.acmicpc.net/problem/15664) ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W4/15664.cpp))
 - [N과 M (11)](https://www.acmicpc.net/problem/15665) ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W4/15665.cpp))
 - [N과 M (12)](https://www.acmicpc.net/problem/15666) ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W4/15666.cpp))
-- [다음 순열](https://www.acmicpc.net/problem/10972)
-- [이전 순열](https://www.acmicpc.net/problem/10973)
-- [모든 순열](https://www.acmicpc.net/problem/10974)
+- [다음 순열](https://www.acmicpc.net/problem/10972) ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W4/10972.cpp))
+- [이전 순열](https://www.acmicpc.net/problem/10973) ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W4/10973.cpp))
+- [모든 순열](https://www.acmicpc.net/problem/10974) ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W4/10974.cpp))
 
 #### 출처:
 - [코드플러스 알고리즘 기초 2/2](https://code.plus/course/42)

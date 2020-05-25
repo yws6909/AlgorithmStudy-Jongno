@@ -6,10 +6,6 @@
 	objectVersion = 50;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		728EF3592468392F007F0A90 /* 10972.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 728EF3582468392F007F0A90 /* 10972.cpp */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		72740207245F3B47002018D0 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -23,6 +19,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		720F1B0624780CCB0094A350 /* 1759.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1759.cpp; sourceTree = "<group>"; };
+		720F1B08247BDB640094A350 /* 10973.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 10973.cpp; sourceTree = "<group>"; };
+		720F1B0A247BDBCE0094A350 /* 10974.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 10974.cpp; sourceTree = "<group>"; };
 		72740209245F3B47002018D0 /* AlgorithmStudy(Jongno) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "AlgorithmStudy(Jongno)"; sourceTree = BUILT_PRODUCTS_DIR; };
 		72740213245F3B64002018D0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		72740218245F4AFB002018D0 /* 1463.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1463.cpp; sourceTree = "<group>"; };
@@ -77,6 +76,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		720F1B0524780C980094A350 /* W5 */ = {
+			isa = PBXGroup;
+			children = (
+				720F1B0624780CCB0094A350 /* 1759.cpp */,
+			);
+			path = W5;
+			sourceTree = "<group>";
+		};
 		72740200245F3B47002018D0 = {
 			isa = PBXGroup;
 			children = (
@@ -97,10 +104,11 @@
 			isa = PBXGroup;
 			children = (
 				72740213245F3B64002018D0 /* README.md */,
-				72740217245F4ABE002018D0 /* W1 */,
-				72740223245F557D002018D0 /* W2 */,
-				7274026B245FB2F2002018D0 /* W3 */,
+				720F1B0524780C980094A350 /* W5 */,
 				728EF33D24681FEA007F0A90 /* W4 */,
+				7274026B245FB2F2002018D0 /* W3 */,
+				72740223245F557D002018D0 /* W2 */,
+				72740217245F4ABE002018D0 /* W1 */,
 			);
 			path = "AlgorithmStudy(Jongno)";
 			sourceTree = "<group>";
@@ -168,6 +176,8 @@
 				728EF35424683813007F0A90 /* 15665.cpp */,
 				728EF356246838C5007F0A90 /* 15666.cpp */,
 				728EF3582468392F007F0A90 /* 10972.cpp */,
+				720F1B08247BDB640094A350 /* 10973.cpp */,
+				720F1B0A247BDBCE0094A350 /* 10974.cpp */,
 			);
 			path = W4;
 			sourceTree = "<group>";
@@ -229,7 +239,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				728EF3592468392F007F0A90 /* 10972.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

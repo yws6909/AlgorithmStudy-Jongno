@@ -6,16 +6,23 @@ int main(int argc, const char* argv[])
     int n;
     std::scanf("%d", &n);
     
-    int set[10'000];
+    int set[9];
     {
         for(int i = 0; i < n; ++i)
-            std::scanf("%d", set + i);
+        {
+            set[i] = i + 1;
+            printf("%d ", set[i]);
+        }
+        printf("\n");
     }
 
     std::set<int, std::less<int>> map;
     
-    bool valid = false;
+    while(true)
     {
+        bool valid = false;
+        
+        map.clear();
         map.insert(set[n - 1]);
         
         for(int i = n - 2; i >= 0; --i)
@@ -39,15 +46,16 @@ int main(int argc, const char* argv[])
                 break;
             }
         }
+        
+        if(valid)
+        {
+            for(int i = 0; i < n; ++i)
+                printf("%d ", set[i]);
+            printf("\n");
+        }
+        else
+            break;
     }
-    
-    if(valid)
-    {
-        for(int i = 0; i < n; ++i)
-            printf("%d ", set[i]);
-    }
-    else
-        std::printf("-1");
     
     return 0;
 }

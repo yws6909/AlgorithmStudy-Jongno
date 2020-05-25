@@ -12,7 +12,7 @@ int main(int argc, const char* argv[])
             std::scanf("%d", set + i);
     }
 
-    std::set<int, std::less<int>> map;
+    std::set<int, std::greater<int>> map;
     
     bool valid = false;
     {
@@ -20,7 +20,7 @@ int main(int argc, const char* argv[])
         
         for(int i = n - 2; i >= 0; --i)
         {
-            if(set[i] > set[i + 1])
+            if(set[i] < set[i + 1])
                 map.insert(set[i]);
             else
             {
