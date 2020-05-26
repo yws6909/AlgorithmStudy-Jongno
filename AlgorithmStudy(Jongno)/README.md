@@ -100,7 +100,7 @@
 - [섬의 개수](https://www.acmicpc.net/problem/4963) ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W6/4963.cpp))
 - [미로 탐색](https://www.acmicpc.net/problem/2178) ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W6/2178.cpp))
 - [토마토](https://www.acmicpc.net/problem/7576) ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W6/7576.cpp))
-- [나이트의 이동](https://www.acmicpc.net/problem/7562)
+- [나이트의 이동](https://www.acmicpc.net/problem/7562) ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W6/7562.cpp))
 - [Two Dots](https://www.acmicpc.net/problem/16929)
 - [서울 지하철 2호선](https://www.acmicpc.net/problem/16947)
 - [BFS 스페셜 저지](https://www.acmicpc.net/problem/16940)
