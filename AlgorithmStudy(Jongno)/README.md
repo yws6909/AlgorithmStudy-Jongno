@@ -96,7 +96,7 @@
 #### P14
 - [연결 요소의 개수](https://www.acmicpc.net/problem/11724) ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W6/11724.cpp))
 - [이분 그래프](https://www.acmicpc.net/problem/1707) ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W6/1707.cpp))
-- [단지번호붙이기](https://www.acmicpc.net/problem/2667) ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W6/6603.cpp))
+- [단지번호붙이기](https://www.acmicpc.net/problem/2667) ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W6/2667.cpp))
 - [섬의 개수](https://www.acmicpc.net/problem/4963) ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W6/4963.cpp))
 - [미로 탐색](https://www.acmicpc.net/problem/2178) ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W6/2178.cpp))
 - [토마토](https://www.acmicpc.net/problem/7576) ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W6/7576.cpp))
