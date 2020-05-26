@@ -109,3 +109,6 @@
 - [숨바꼭질](https://www.acmicpc.net/problem/1697)
 - [숨바꼭질 4](https://www.acmicpc.net/problem/13913)
 - [이모티콘](https://www.acmicpc.net/problem/14226)
+
+#### 출처:
+- [코드플러스 알고리즘 기초 2/2](https://code.plus/course/42)
