@@ -112,3 +112,26 @@
 
 #### 출처:
 - [코드플러스 알고리즘 기초 2/2](https://code.plus/course/42)
+
+### W8 (2020-06-07 ~ 06-13)
+#### P17
+- [테트로미노](https://www.acmicpc.net/problem/14500)
+- [두 동전](https://www.acmicpc.net/problem/16197)
+- [에너지 모으기](https://www.acmicpc.net/problem/16198)
+- [N-Queen](https://www.acmicpc.net/problem/9663)
+- [스도쿠](https://www.acmicpc.net/problem/2580)
+- [스도미노쿠](https://www.acmicpc.net/problem/4574)
+- [알파벳](https://www.acmicpc.net/problem/1987)
+- [퇴사](https://www.acmicpc.net/problem/14501)
+- [부분수열의 합](https://www.acmicpc.net/problem/14225)
+- [가르침](https://www.acmicpc.net/problem/1062)  ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W8/1062.cpp))
+- [구슬 탈출 2](https://www.acmicpc.net/problem/13460)
+- [2048 (Easy)](https://www.acmicpc.net/problem/12100)
+- [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)
+- [데스 나이트](https://www.acmicpc.net/problem/16948)
+- [DSLR](https://www.acmicpc.net/problem/9019)
+- [연구소](https://www.acmicpc.net/problem/14502) ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W8/14502.cpp))
+- [돌 그룹](https://www.acmicpc.net/problem/12886)
+
+#### 출처:
+- [코드플러스 알고리즘 중급 1/3](https://code.plus/course/43)
