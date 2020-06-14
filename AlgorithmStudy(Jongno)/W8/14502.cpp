@@ -14,6 +14,7 @@ struct coord
 
 enum { virus = -2, wall = -1 };
 enum { top = 0, right, bottom, left };
+
 int dx[] = { 0, 1, 0, -1 };
 int dy[] = { -1, 0, 1, 0 };
 
@@ -75,19 +76,19 @@ int spread()
             
             for(int i = top; i <= left; ++i)
             {
-                int new_row = row + dy[i];
-                int new_col = col + dx[i];
+                int next_row = row + dy[i];
+                int next_col = col + dx[i];
                 
-                if((new_row < 0 || new_row >= n) ||
-                   (new_col < 0 || new_col >= m))
+                if((next_row < 0 || next_row >= n) ||
+                   (next_col < 0 || next_col >= m))
                     continue;
                 
-                if(map[new_row][new_col] != virus_code &&
-                   map[new_row][new_col] != wall &&
-                   map[new_row][new_col] != virus)
+                if(map[next_row][next_col] != virus_code &&
+                   map[next_row][next_col] != wall &&
+                   map[next_row][next_col] != virus)
                 {
-                    map[new_row][new_col] = virus_code;
-                    q.emplace(new_row, new_col);
+                    map[next_row][next_col] = virus_code;
+                    q.emplace(next_row, next_col);
                     
                     --safe_count;
                 }
