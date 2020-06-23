@@ -158,3 +158,24 @@
 
 #### 출처:
 - [코드플러스 알고리즘 중급 1/3](https://code.plus/course/43)
+
+### W10 (2020-06-21 ~ 06-27)
+#### P15
+- [전구와 스위치](https://www.acmicpc.net/problem/2138)
+- [동전 뒤집기](https://www.acmicpc.net/problem/1285)
+- [보석 도둑](https://www.acmicpc.net/problem/1202)
+- [순회강연](https://www.acmicpc.net/problem/2109)
+- [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)
+- **[잃어버린 괄호](https://www.acmicpc.net/problem/1541) ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W10/1541.cpp))**
+- [수 묶기](https://www.acmicpc.net/problem/1744)
+- [대회 or 인턴](https://www.acmicpc.net/problem/2875)
+- [30](https://www.acmicpc.net/problem/10610)
+- [병든 나이트](https://www.acmicpc.net/problem/1783)
+- [AB](https://www.acmicpc.net/problem/12970)
+- [A와 B](https://www.acmicpc.net/problem/12904)
+- [NMK](https://www.acmicpc.net/problem/1201)
+- **[롤러코스터](https://www.acmicpc.net/problem/2873) ([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W10/2873.cpp))**
+- [A와 B 2](https://www.acmicpc.net/problem/12919)
+
+#### 출처:
+- [코드플러스 알고리즘 중급 1/3](https://code.plus/course/43)
