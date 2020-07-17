@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		720693CB24C2231E006C95FE /* 1300.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 720693CA24C2231E006C95FE /* 1300.cpp */; };
+		720693CD24C2233B006C95FE /* 16938.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 720693CC24C2233B006C95FE /* 16938.cpp */; };
 		72BE055524AF8D7F00FE74F4 /* 1074.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 72BE055424AF8D7F00FE74F4 /* 1074.cpp */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +25,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		720693CA24C2231E006C95FE /* 1300.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1300.cpp; sourceTree = "<group>"; };
+		720693CC24C2233B006C95FE /* 16938.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 16938.cpp; sourceTree = "<group>"; };
 		720F1B0624780CCB0094A350 /* 1759.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1759.cpp; sourceTree = "<group>"; };
 		720F1B08247BDB640094A350 /* 10973.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 10973.cpp; sourceTree = "<group>"; };
 		720F1B0A247BDBCE0094A350 /* 10974.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 10974.cpp; sourceTree = "<group>"; };
@@ -102,6 +106,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		720693C924C222FE006C95FE /* W13 */ = {
+			isa = PBXGroup;
+			children = (
+				720693CA24C2231E006C95FE /* 1300.cpp */,
+				720693CC24C2233B006C95FE /* 16938.cpp */,
+			);
+			path = W13;
+			sourceTree = "<group>";
+		};
 		720F1B0524780C980094A350 /* W5 */ = {
 			isa = PBXGroup;
 			children = (
@@ -148,6 +161,7 @@
 			isa = PBXGroup;
 			children = (
 				72740213245F3B64002018D0 /* README.md */,
+				720693C924C222FE006C95FE /* W13 */,
 				72BE054E24ACF76000FE74F4 /* W11 */,
 				72BE054924A183CB00FE74F4 /* W10 */,
 				72BE05262495C23C00FE74F4 /* W9 */,
@@ -335,7 +349,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				720693CD24C2233B006C95FE /* 16938.cpp in Sources */,
 				72BE055524AF8D7F00FE74F4 /* 1074.cpp in Sources */,
+				720693CB24C2231E006C95FE /* 1300.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -455,6 +471,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				GCC_VERSION = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -463,6 +480,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				GCC_VERSION = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;

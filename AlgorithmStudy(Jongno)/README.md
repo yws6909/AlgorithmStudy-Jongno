@@ -200,3 +200,46 @@
 
 #### 출처:
 - [코드플러스 알고리즘 중급 1/3](https://code.plus/course/43)
+
+### W12(2020-07-05 ~ 07-11)
+#### P15
+- [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)
+- [나이순 정렬](https://www.acmicpc.net/problem/10814)
+- [놀이 국영수](https://www.acmicpc.net/problem/10825)
+- [수 정렬하기 3](https://www.acmicpc.net/problem/10989)
+- [카드](https://www.acmicpc.net/problem/11652)
+- [버블 소트](https://www.acmicpc.net/problem/1377)
+- [수 이어 쓰기 2](https://www.acmicpc.net/problem/1790)
+- [랜선 자르기](https://www.acmicpc.net/problem/1654)
+- [나무 자르기](https://www.acmicpc.net/problem/2805)
+- [공유기 설치](https://www.acmicpc.net/problem/2110)
+- [중량제한](https://www.acmicpc.net/problem/1939)
+- [사다리](https://www.acmicpc.net/problem/2022)
+- [선분과 점](https://www.acmicpc.net/problem/11664)
+- [기타 레슨](https://www.acmicpc.net/problem/2343)
+- [구간 나누기 2](https://www.acmicpc.net/problem/13397)
+
+#### 출처:
+- [코드플러스 알고리즘 중급 1/3](https://code.plus/course/43)
+
+### W13(2020-07-12 ~ 07-18)
+#### P15
+- [배열에서 이동](https://www.acmicpc.net/problem/1981)
+- **[K번째 수](https://www.acmicpc.net/problem/1300)([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W13/1300.cpp))**
+- [놀이 공원](https://www.acmicpc.net/problem/1561)
+- [차량 번호판 1](https://www.acmicpc.net/problem/16968)
+- [양념 반 후라이드 반](https://www.acmicpc.net/problem/16917)
+- [로마 숫자 만들기](https://www.acmicpc.net/problem/16922)
+- [십자가 찾기](https://www.acmicpc.net/problem/16924)
+- [나3곱2](https://www.acmicpc.net/problem/16936)
+- [두 스티커](https://www.acmicpc.net/problem/16937)
+- **[캠프 준비](https://www.acmicpc.net/problem/16938)([source](https://github.com/yws6909/AlgorithmStudy-Jongno/blob/master/AlgorithmStudy(Jongno)/W13/16938.cpp))**
+- [숫자 재배치](https://www.acmicpc.net/problem/16943)
+- [괄호 추가하기](https://www.acmicpc.net/problem/16637)
+- [감시](https://www.acmicpc.net/problem/15683)
+- [등차수열 변환](https://www.acmicpc.net/problem/17088)
+- [치킨 배달](https://www.acmicpc.net/problem/15686)
+
+#### 출처:
+- [코드플러스 알고리즘 중급 1/3](https://code.plus/course/43)
+- [코드플러스 알고리즘 중급 2/3](https://code.plus/course/44)
